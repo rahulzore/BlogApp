@@ -1,0 +1,14 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+:root{
+    --aap-background-color: #f6f6f6;
+    --app-primary-color: #E34234;
+}
+.spacer{
+    flex: 1 1 auto;
+    background-color: var(--app-background-color);
+}
+body{
+    margin: 0;
+
+}
